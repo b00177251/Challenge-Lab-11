@@ -2,7 +2,6 @@ import string
 from base64 import b64decode
 
 # Read the intercepted ciphertext from a file
-# Read the intercepted ciphertext from a file
 file_path = 'intercepted.txt'
 
 
